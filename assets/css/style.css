@@ -302,7 +302,8 @@
 
 .svgdiv {
     bottom: 5%;
-    left: 10%;
+    left: 0%;
+    padding-left: 10%;
 }
 
 .gap-15 {
